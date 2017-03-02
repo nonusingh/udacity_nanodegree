@@ -3,4 +3,4 @@
 
 # ## Data Model
 
-# <img src = OpenStreetMap\LessonQuizzes\DataModel.png>
+# <img src = DataModel.png>
