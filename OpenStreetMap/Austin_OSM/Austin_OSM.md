@@ -9,7 +9,7 @@ https://www.openstreetmap.org/relation/113314
 
 Austin is where I did my first internship so it is special to me. I am also familiar with the street names so I will be able to audit it better. I downloaded osm file from mapzen.com which consisted of data from the shaded area in the map below. It is over 1.4 GB(uncompressed)
 
-<img src = "SizeM.png">
+<img src = "https://github.com/nonusingh/udacity_nanodegree/blob/master/OpenStreetMap/Austin_OSM/img/SizeM.png">
 
 ## Auditing the data
 
